@@ -3,7 +3,7 @@ LANGUAGE TRANSLATOR FOR NIGERIAN LANGUAGES
 Translator can be extended to cover more languages
 Word register in register.txt file will be updated regularly
 Author: Adekunle Oluwabunmi
-Program: CodeLagos Afternoon Session - Ikeja Sectariat Centre
+Program: CodeLagos Afternoon Session - Ikeja Secretariat Centre
 
 This is a python lanugage translator for the three major languages in Nigeria.
 The word register in this version is limited for the purpose of project defence.
